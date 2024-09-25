@@ -1,4 +1,4 @@
 # myName
 This is my first repository
 <br>
-Author: Abdullah Ansari
+Author: Abdullah Ansari as
